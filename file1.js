@@ -5,7 +5,5 @@ test
 jammm
 sea
 seaocean
-wowwowowo
-helloagain
 
 
