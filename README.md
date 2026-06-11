@@ -17,7 +17,7 @@ The most appropriate measure of success is points earned. Each metric is compare
 
 - Source: https://www.kaggle.com/datasets/idoyo92/epl-stats-20192020
 - Last Updated: 2020
-- Observations: 29 (clarify what this represents)
+
 
 ## Tools and Libraries
 
